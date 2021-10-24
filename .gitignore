@@ -1,0 +1,6 @@
+# PyTorch checkpoints
+/checkpoints/
+
+# Cache files
+*/__pycache__/
+*.pyc

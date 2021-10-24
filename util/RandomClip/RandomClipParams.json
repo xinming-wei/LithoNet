@@ -1,0 +1,16 @@
+{
+    "gdsFile" : "gds/random_contact.gds", 
+    "gdsDatabaseUnit" : 0.001, 
+    "ssFile" : "gds/random_contact.ss", 
+    "cell" : "TOP", 
+    "layer" : 0,
+    "sizeArray" : [[0.064, 0.064]],
+    "pitchArray" : [[0.400, 0.400]],
+    "regionWidth" : 2, 
+    "regionHeight" : 2, 
+    "numClips" : 3000, 
+    "randomVariation" : 0.15, 
+    "npFile" : "Layouts_nparray/layouts.npz",
+    "nparrayWidth" : 250
+    }
+    

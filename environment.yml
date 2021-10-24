@@ -1,0 +1,14 @@
+name: LithoNet
+channels:
+- pytorch
+- default
+dependencies:
+- python
+- pytorch
+- pip:
+  - Pillow
+  - torchvision
+  - numpy
+  - matplotlib
+  - gdspy
+  - opencv-python
