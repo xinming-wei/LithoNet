@@ -11,7 +11,7 @@ LithoNet is a learning-based lithography simulation and mask optimization toolki
 **Example results** 
 | Target Layout | Synthesized Mask | Aerial Image | Actual Layout |
 | --- | --- | --- | --- |
-| ![Target Layout](./imgs/target_layout.png) | ![Mask](./imgs/synthesized_mask.png) | ![Aerial Image](./imgs/aerial_image.png) | ![Actual layout](./imgs/actual_layout.png)
+| ![Target Layout](./imgs/target_layout.png) | <img src=./imgs/synthesized_mask.png width=395> | ![Aerial Image](./imgs/aerial_image.png) | ![Actual layout](./imgs/actual_layout.png)
 
 **Reference Flow** [*(Lin, ASPDAC'21)*](https://dl.acm.org/doi/10.1145/3394885.3431624)
 ![Reference Flow](./imgs/ref_flow.png)
